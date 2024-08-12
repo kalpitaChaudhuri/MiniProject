@@ -1,0 +1,18 @@
+# Ignore binary files
+*.class
+*.jar
+*.war
+
+# Ignore directories
+bin/
+target/
+build/
+
+# Ignore Eclipse-specific files
+.settings/
+.classpath
+.project
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
